@@ -1,0 +1,22 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "![picture of how the app looks like](Screenshot-3.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chemical081/weather-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chemical081/weather-app/issues"
+  },
+  "homepage": "https://github.com/chemical081/weather-app#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
